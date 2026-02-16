@@ -1,32 +1,78 @@
-# 🚀 Primeiros Projetos - Jornada de Aprendizado
+# Lucas Cancio Soares
 
-Bem-vindo ao meu repositório de aprendizado! Aqui documento meus primeiros passos na programação enquanto estudo para o ENEM e me preparo para a carreira em tecnologia.
+**Desenvolvedor | Automação & IA | Prompt Engineering**
 
-<div align="center">
-  
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Luke08theman/primeiros-projetos)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Luke08theman/primeiros-projetos)
-  ![GitHub language count](https://img.shields.io/github/languages/count/Luke08theman/primeiros-projetos)
-  
-</div>
+🎯 Estudante de Automação Industrial focado em **aplicações de IA para automação de processos**  
+🌍 Belo Horizonte, MG | Disponível para remoto  
+🗣️ Português nativo | Inglês B2 | Espanhol B2
 
-## 👨‍💻 Sobre Mim
-
-Sou Lucas Cancio, estudante de **Automação Industrial no IFMG** (3º ano). Estou aprendendo programação de forma autodidata enquanto me preparo para entrar em **Sistemas de Informação**.
-
-**Idiomas:** Português (nativo), Inglês (B2), Espanhol (B2)  
-**Objetivo:** Desenvolvedor Full Stack + Aposentadoria aos 40 anos 🎯
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucas-cancio-soares-25a794221)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:l.canciosoares@gmail.com)
 
 ---
 
-## 📧 Contato
+## 🚀 O que eu faço
 
-**Lucas Cancio Soares**
+Transformo processos manuais em soluções automatizadas usando Python, IA e pensamento lógico de engenharia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-cancio-soares-25a794221)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luke08theman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.canciosoares@gmail.com)
+**Áreas de atuação:**
+- Automação de processos com Python
+- Prompt Engineering & IA Generativa
+- Desenvolvimento de soluções com APIs
+- Análise e otimização de workflows
 
 ---
+
+## 🛠️ Stack Técnica
+
+**Linguagens:**  
+`Python` `C` `SQL`
+
+**IA & Automação:**  
+`OpenAI API` `Prompt Engineering` `Process Automation` `LEGO Mindstorms` `Arduino`
+
+**Ferramentas:**  
+`Git` `GitHub` `VS Code` `Linux básico`
+
+**Idiomas:**  
+🇧🇷 Português (Nativo) | 🇺🇸 Inglês (B2) | 🇪🇸 Espanhol (B2)
+
+---
+
+## 📚 Formação
+
+🎓 **Técnico em Automação Industrial** (2024-2026)  
+Instituto Federal de Minas Gerais - Campus Betim
+
+**Certificações relevantes:**
+- Inteligência Artificial (Conquer Plus)
+- IA Generativa (Santander Open Academy)
+- Prompt Engineering Responsável (Santander Open Academy)
+- Administração (SENAC)
+
+---
+
+## 🎯 O que estou buscando
+
+✅ Oportunidades em **Desenvolvimento Python**  
+✅ Projetos de **Automação de Processos**  
+✅ Trabalho com **IA e Prompt Engineering**  
+✅ Posições **remotas ou híbridas**
+
+---
+
+## 📊 GitHub Stats
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luke08theman&show_icons=true&theme=radical)
+
+---
+
+## 📫 Vamos conversar?
+
+💼 Aberto para **freelas, estágios e oportunidades júnior**  
+📧 **l.canciosoares@gmail.com**  
+💬 **[LinkedIn](https://www.linkedin.com/in/lucas-cancio-soares-25a794221)**
+
+
 
 
